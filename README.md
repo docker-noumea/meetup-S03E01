@@ -1,6 +1,6 @@
 ### Présentation de Docker
 
-http://mfilotto.github.io/software-factory-presentation
+https://docker-noumea.github.io/meetup-S03E01
 
 #### Crédit :
 Réalisée avec le framework de présentation [impress.js](https://github.com/impress/impress.js)
